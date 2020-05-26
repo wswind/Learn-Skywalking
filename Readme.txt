@@ -50,6 +50,9 @@ http://192.168.56.10:8080/
 
 https://github.com/SkyAPM/SkyAPM-dotnet/issues/292
 
+
+%appdata%\NuGet\NuGet.Config
+
 add MyGet
 https://www.myget.org/F/skyapm-dotnet/api/v3/index.json
 
